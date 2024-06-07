@@ -1,0 +1,1 @@
+"Esta funcion aplica el metodo de Newton para encontrar raices en la menor cantidad de iteraciones" 
